@@ -1,4 +1,8 @@
 ---
 share: "true"
 ---
-2
+##Criminal Cases
+##Presidency
+	[Trump Policies](Trump%20Policies.md)
+	
+##Financial
